@@ -10,3 +10,9 @@
 > This number guessing game is an easy project built on Java where the player has to guess a number given in between a range.
 > 
 > [Number Guessing Game](https://github.com/OscarCanongo/JavaProjects/blob/main/NumberGuessingGame/src/NumberGuessingGame.java)
+
+<h2>Tic-Tac-Toe Game</h2>
+
+> The Tic-Tac-Toe game application is a simple project developed using GUI (Graphical User Interface) in Java.
+> 
+> [Tic-Tac-Toe Game](https://github.com/OscarCanongo/JavaProjects/blob/main/TicTacToe/src/Main.java)
